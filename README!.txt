@@ -14,6 +14,10 @@ Watch this video to see how. ( https://www.youtube.com/watch?v=Smva0MA_g5o )
 ==================
 
 ===CODE-REPLACEMENTS===
-Server.cfg
-{
-	
+Server.cfg - go through and change the ip, webkey & fivem key which is highlighted in the config file. Use editor - Atom or Can't remember the other name my bad
+
+Have Fun!
+
+Andrew,
+Nitro Development
+Founder & CEO
